@@ -1,30 +1,19 @@
 
-# Market segmentation Feynn lab internship Team Manish study task
--
+# Feynn-Labs 
 
 
+
+## Market segmentation Feynn lab internship Team Charan study task
 
 ## What is marketing:
-
- - Marketing is the activity, set of institutions, and processes for creating,communicating, delivering, and exchanging offerings that have value for customers, clients, partners, and society at large.
+Marketing is the activity, set of institutions, and processes for creating,communicating, delivering, and exchanging offerings that have value for customers, clients, partners, and society at large.
 ## What is marketing strategy:
 Marketing strategy is a set of specific ideas and actions that outline and guide decisions on the best or chosen way to create,distribute, promote, and price a product or service (Manage the marketing mix variables).
 ## What is market segmentation?
 At its core, market segmentation is the practice of dividing your target market into approachable groups. Market segmentation creates subsets of a market based on demographics, needs, priorities, common interests, and other psychographic or behavioral criteria used to better understand the target audience.
-## 3 segements are extracted fitting the data well
-3 segements are made on basis age, like, visiting frequency
+## Outcomes
+In the given dataset we have an 15 features out of that we are assumed that 'Like' as an target feature After the preprocessing and cleaning the data ( such as applying label encoding and replacing some of the negative values ) . We have moved further to an clustering part of how to group customers based on their feedback. As we can see that the features yummy and tasty are more contributing to the ‘Like’ output. And if it is disgusting then more people are giving negative feedback. And gender has negative correlation. So it cannot plays a major role and it is not the deciding factor. when we are marketing from next time we make sure that these features yummy, tasty, healthy, convenient are required for better sales.
 
-Segment 1 - Age group is between 15-35, liking rate is 2.88, Visiting frequency is one a month (average)
+After the market segmentation analysis is completed, and all strategic and tactical marketing activities have been undertaken, the success of the market segmentation strategy has to be evaluated, and the market must be carefully monitored on a continuous basis. Changes can occur within existing market segments. But changes can also occur in the larger marketplace, for example, if new competitors enter the market. All potential sources of change have to be monitored in order to detect changes which require McDonald’s management to adjust their strategic or tactical marketing in view of new market circumstances
 
-Segment 2 - Age group is between 36-54, liking rate is 2.37 , Visiting frequency is one in 2 months (average)
 
-Segment 3 - Age group is between 55-70, liking rate is 1.33, Visiting frequency is one in 3 months (average)
-## Targeting segments
-Target segment - 1st group
-Here count of consumers is parallel with visiting frequency and likeing rate. This group of consumers include largely students and working people. They are liking the food items with good visiting frequency. To increase this we need to make prices affordable for which various offers can be made available ( Games, one on one free, student offer etc.)
-
-Target segment - 2nd group
-Here count of consumers is parallel with visiting frequency and likeing rate. To increase the sales, for this group service can be made more fast and more conveinient( as conveiniency dicreases with age) as these consumers are working proffesional so service should match their busy work schedule.
-
-Target segment - 3rd group.
-Here count of consumers is much but in comparison visiting frequency is lower so the likeing rate is also low. As seen in age vs yummmy and other graphs, this group is not much liking the food items they are feeling it as more oily and spicy hence also thie liking rate and visiting frequency is less. For this segment we need to make changes in product as they feel it more spicy and not much tasty.
